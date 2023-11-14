@@ -15,7 +15,7 @@ I'm Wil, a data analyst skilled in SQL, Power BI, and Python. My GitHub portfoli
 <strong>Certifications & Courses:</strong> Google Data Analytics | Tableau Data Analytics
 #
 
-<strong>Projects:</strong>
+<strong>PROJECTS:</strong>
 
 
 
