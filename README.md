@@ -1,4 +1,5 @@
-![Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![alt text](bbc911df-adfa-48cb-9d41-92aa8fdf461b.png )
+ 
 
 # Wil Rodriguez
 I'm Wil, a data analyst skilled in SQL, Power BI, and Python. My GitHub portfolio displays projects where I've effectively utilized SQL for data management, crafted insightful dashboards in Power BI, and conducted basic data analysis with Python. My focus is on continuously enhancing my skills and applying them to real-world data challenges.
