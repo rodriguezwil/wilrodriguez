@@ -11,12 +11,11 @@ I'm Wil, a data analyst skilled in SQL, Power BI, and Python. My GitHub portfoli
 <strong>Analytical Skills:</strong> Data Management | Problem-Solving | Attention to Detail
 
 <strong>Soft Skills:</strong> Communication | Collaboration | Time Management
-
-#
+# 
 <strong>Certifications & Courses:</strong> Google Data Analytics | Tableau Data Analytics
+#
 
-
-
+<strong>Projects:</strong>
 
 
 
