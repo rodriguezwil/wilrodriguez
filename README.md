@@ -1,5 +1,5 @@
-![alt text](bbc911df-adfa-48cb-9d41-92aa8fdf461b.png )
- 
+![alt text](https://github.com/wil-rodriguez/wil-rodriguez/blob/23356fb367f0c8e915644e00054467aa67f2c144/White%20Minimalist%20Profile%20LinkedIn%20Banner2.png
+ )
 
 I'm Wil, a data analyst skilled in SQL, Power BI, and Python. My GitHub portfolio displays projects where I've effectively utilized SQL for data management, crafted insightful dashboards in Power BI, and conducted basic data analysis with Python. My focus is on continuously enhancing my skills and applying them to real-world data challenges.
 
