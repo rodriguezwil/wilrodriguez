@@ -16,7 +16,7 @@ I'm Wil, a data analyst skilled in SQL, Power BI, and Python. My GitHub portfoli
 #
 
 <strong>PROJECTS:</strong>
-
+#
 
 
 
